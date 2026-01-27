@@ -4,13 +4,15 @@ Modern version of RPEmotes with an improved user interface for FiveM.
 
 ## 📸 Preview
 
-### Main Menu
-![Emote Menu](https://github.com/Sureebi/rpemotes_BetterUI/blob/main/preview/main-menu.png)
+> **Note:** To add preview images, take screenshots in-game and save them as `main-menu.png`, `emote-selection.png`, and `emote-detailed.png` in the `preview/` folder.
+
+### Main Menu - Categories View
+![Emote Menu - Categories](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/main-menu.png)
 
 The emote menu with categories, search functionality, and easy access to all features.
 
-### Categories
-- **FAVORITES** - Quick access to favorite emotes
+**Categories available:**
+- **FAVORITES** - Quick access to favorite emotes (⭐)
 - **ALL** - All available emotes (1145+)
 - **PROP EMOTES** - Emotes with props (654+)
 - **SHARED EMOTES** - Shared emotes (94+)
@@ -18,10 +20,19 @@ The emote menu with categories, search functionality, and easy access to all fea
 - **MOODS** - Moods and expressions (38+)
 - **WALK STYLES** - Walking styles (130+)
 
-### Emote Selection
-![Emote Selection](https://github.com/Sureebi/rpemotes_BetterUI/blob/main/preview/emote-selection.png)
+### Emote Selection - Grid View
+![Emote Selection - Grid](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/emote-selection.png)
 
-Intuitive interface for selecting emotes with visual icons and commands.
+Intuitive interface for selecting emotes with visual icons and commands. Each emote shows:
+- Visual icon representation
+- Emote name
+- Command (e.g., `/e cup`)
+- Favorite star indicator (⭐)
+
+### Emote Selection - Detailed View
+![Emote Selection - Detailed](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/emote-detailed.png)
+
+Detailed view showing multiple emotes with their commands and favorite indicators.
 
 ## ✨ Features
 
