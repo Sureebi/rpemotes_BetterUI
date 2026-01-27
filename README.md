@@ -4,10 +4,8 @@ Modern version of RPEmotes with an improved user interface for FiveM.
 
 ## 📸 Preview
 
-> **Note:** To add preview images, take screenshots in-game and save them as `main-menu.png`, `emote-selection.png`, and `emote-detailed.png` in the `preview/` folder.
-
 ### Main Menu - Categories View
-![Emote Menu - Categories](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/main-menu.png)
+![Main Menu](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/MainMenu.png)
 
 The emote menu with categories, search functionality, and easy access to all features.
 
@@ -20,19 +18,20 @@ The emote menu with categories, search functionality, and easy access to all fea
 - **MOODS** - Moods and expressions (38+)
 - **WALK STYLES** - Walking styles (130+)
 
-### Emote Selection - Grid View
-![Emote Selection - Grid](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/emote-selection.png)
+### Favorites Menu
+![Favorites](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/FavEmotes.png)
 
-Intuitive interface for selecting emotes with visual icons and commands. Each emote shows:
-- Visual icon representation
-- Emote name
-- Command (e.g., `/e cup`)
-- Favorite star indicator (⭐)
+View and manage your favorite emotes for quick access.
 
-### Emote Selection - Detailed View
-![Emote Selection - Detailed](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/emote-detailed.png)
+### Dance Emotes
+![Dance Emotes](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/Dance.png)
 
-Detailed view showing multiple emotes with their commands and favorite indicators.
+Browse through the extensive collection of dance emotes with visual icons and commands.
+
+### Prop Emotes
+![Prop Emotes](https://raw.githubusercontent.com/Sureebi/rpemotes_BetterUI/main/preview/Prop.png)
+
+Emotes with props - each emote shows the prop icon, name, and command for easy selection.
 
 ## ✨ Features
 
