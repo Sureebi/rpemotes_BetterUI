@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emote Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="emote-menu" class="hidden">
+        <div class="menu-container">
+            <!-- Header -->
+            <div class="menu-header">
+                <div class="header-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                <h1 class="menu-title">EMOTE MENU</h1>
+                <!-- <h1 class="menu-title">EMOTE MENU</h1> -->
+                <button class="close-btn" id="close-menu">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M15 5L5 15M5 5L15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </button>
+            </div>
+
+            <!-- Search Bar -->
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Търси емоут..." />
+                <!-- <input type="text" id="search-input" placeholder="Search emote..." /> -->
+                <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="9" cy="9" r="6" stroke="currentColor" stroke-width="2"/>
+                    <path d="M14 14L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                </svg>
+            </div>
+
+            <!-- Categories -->
+            <div class="categories-container" id="categories">
+                <!-- Categories will be dynamically loaded here -->
+            </div>
+
+            <!-- Emotes Grid -->
+            <div class="emotes-container" id="emotes-grid">
+                <!-- Emotes will be dynamically loaded here -->
+            </div>
+
+            <!-- Preview Tooltip -->
+            <div class="preview-tooltip hidden" id="preview-tooltip">
+                <div class="preview-content">
+                    <div class="preview-label">PREVIEW</div>
+                    <div class="preview-info">
+                        <div class="preview-name" id="preview-name"></div>
+                        <div class="preview-type" id="preview-type"></div>
+                    </div>
+                    <div class="preview-hint">�️ иВиж до менюто</div>
+                    <!-- <div class="preview-hint">�️ oLook near menu</div> -->
+                </div>
+            </div>
+
+            <!-- Footer Info -->
+            <div class="menu-footer">
+                <div class="footer-hint">
+                    <span class="key">ESC</span> Затвори
+                    <!-- <span class="key">ESC</span> Close -->
+                    <span class="separator">|</span>
+                    <span class="key">ENTER</span> Избери
+                    <!-- <span class="key">ENTER</span> Select -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

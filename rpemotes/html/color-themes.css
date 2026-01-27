@@ -1,0 +1,216 @@
+/* 
+   АЛТЕРНАТИВНИ ЦВЕТОВИ СХЕМИ
+   
+   За да промените цветовата схема, копирайте желаната тема
+   и я поставете в края на style.css файла
+*/
+
+/* ============================================
+   ТЕМА 1: CYAN/TEAL (По подразбиране)
+   ============================================ */
+/*
+:root {
+    --primary-color: #00ffff;
+    --primary-glow: rgba(0, 255, 255, 0.8);
+    --primary-light: rgba(0, 255, 255, 0.3);
+    --primary-dark: rgba(0, 200, 255, 0.05);
+    --bg-gradient-start: rgba(10, 25, 35, 0.95);
+    --bg-gradient-end: rgba(15, 35, 50, 0.95);
+}
+*/
+
+/* ============================================
+   ТЕМА 2: PURPLE/MAGENTA (Лилава)
+   ============================================ */
+/*
+:root {
+    --primary-color: #9d4edd;
+    --primary-glow: rgba(157, 78, 221, 0.8);
+    --primary-light: rgba(157, 78, 221, 0.3);
+    --primary-dark: rgba(157, 78, 221, 0.05);
+    --bg-gradient-start: rgba(25, 10, 35, 0.95);
+    --bg-gradient-end: rgba(35, 15, 50, 0.95);
+}
+
+.menu-title,
+.header-icon,
+#search-input,
+.category-btn,
+.emote-name,
+.key {
+    color: #9d4edd !important;
+}
+
+.menu-header::after,
+.menu-container {
+    border-color: rgba(157, 78, 221, 0.4) !important;
+}
+*/
+
+/* ============================================
+   ТЕМА 3: GREEN/EMERALD (Зелена)
+   ============================================ */
+/*
+:root {
+    --primary-color: #00ff88;
+    --primary-glow: rgba(0, 255, 136, 0.8);
+    --primary-light: rgba(0, 255, 136, 0.3);
+    --primary-dark: rgba(0, 255, 136, 0.05);
+    --bg-gradient-start: rgba(10, 25, 20, 0.95);
+    --bg-gradient-end: rgba(15, 35, 30, 0.95);
+}
+
+.menu-title,
+.header-icon,
+#search-input,
+.category-btn,
+.emote-name,
+.key {
+    color: #00ff88 !important;
+}
+
+.menu-header::after,
+.menu-container {
+    border-color: rgba(0, 255, 136, 0.4) !important;
+}
+*/
+
+/* ============================================
+   ТЕМА 4: ORANGE/AMBER (Оранжева)
+   ============================================ */
+/*
+:root {
+    --primary-color: #ff9500;
+    --primary-glow: rgba(255, 149, 0, 0.8);
+    --primary-light: rgba(255, 149, 0, 0.3);
+    --primary-dark: rgba(255, 149, 0, 0.05);
+    --bg-gradient-start: rgba(25, 15, 10, 0.95);
+    --bg-gradient-end: rgba(35, 25, 15, 0.95);
+}
+
+.menu-title,
+.header-icon,
+#search-input,
+.category-btn,
+.emote-name,
+.key {
+    color: #ff9500 !important;
+}
+
+.menu-header::after,
+.menu-container {
+    border-color: rgba(255, 149, 0, 0.4) !important;
+}
+*/
+
+/* ============================================
+   ТЕМА 5: BLUE/ELECTRIC (Синя)
+   ============================================ */
+/*
+:root {
+    --primary-color: #0099ff;
+    --primary-glow: rgba(0, 153, 255, 0.8);
+    --primary-light: rgba(0, 153, 255, 0.3);
+    --primary-dark: rgba(0, 153, 255, 0.05);
+    --bg-gradient-start: rgba(10, 15, 30, 0.95);
+    --bg-gradient-end: rgba(15, 25, 45, 0.95);
+}
+
+.menu-title,
+.header-icon,
+#search-input,
+.category-btn,
+.emote-name,
+.key {
+    color: #0099ff !important;
+}
+
+.menu-header::after,
+.menu-container {
+    border-color: rgba(0, 153, 255, 0.4) !important;
+}
+*/
+
+/* ============================================
+   ТЕМА 6: RED/CRIMSON (Червена)
+   ============================================ */
+/*
+:root {
+    --primary-color: #ff0055;
+    --primary-glow: rgba(255, 0, 85, 0.8);
+    --primary-light: rgba(255, 0, 85, 0.3);
+    --primary-dark: rgba(255, 0, 85, 0.05);
+    --bg-gradient-start: rgba(30, 10, 15, 0.95);
+    --bg-gradient-end: rgba(40, 15, 20, 0.95);
+}
+
+.menu-title,
+.header-icon,
+#search-input,
+.category-btn,
+.emote-name,
+.key {
+    color: #ff0055 !important;
+}
+
+.menu-header::after,
+.menu-container {
+    border-color: rgba(255, 0, 85, 0.4) !important;
+}
+*/
+
+/* ============================================
+   ТЕМА 7: GOLD/YELLOW (Златна)
+   ============================================ */
+/*
+:root {
+    --primary-color: #ffd700;
+    --primary-glow: rgba(255, 215, 0, 0.8);
+    --primary-light: rgba(255, 215, 0, 0.3);
+    --primary-dark: rgba(255, 215, 0, 0.05);
+    --bg-gradient-start: rgba(25, 20, 10, 0.95);
+    --bg-gradient-end: rgba(35, 30, 15, 0.95);
+}
+
+.menu-title,
+.header-icon,
+#search-input,
+.category-btn,
+.emote-name,
+.key {
+    color: #ffd700 !important;
+}
+
+.menu-header::after,
+.menu-container {
+    border-color: rgba(255, 215, 0, 0.4) !important;
+}
+*/
+
+/* ============================================
+   ТЕМА 8: PINK/ROSE (Розова)
+   ============================================ */
+/*
+:root {
+    --primary-color: #ff006e;
+    --primary-glow: rgba(255, 0, 110, 0.8);
+    --primary-light: rgba(255, 0, 110, 0.3);
+    --primary-dark: rgba(255, 0, 110, 0.05);
+    --bg-gradient-start: rgba(30, 10, 20, 0.95);
+    --bg-gradient-end: rgba(40, 15, 30, 0.95);
+}
+
+.menu-title,
+.header-icon,
+#search-input,
+.category-btn,
+.emote-name,
+.key {
+    color: #ff006e !important;
+}
+
+.menu-header::after,
+.menu-container {
+    border-color: rgba(255, 0, 110, 0.4) !important;
+}
+*/
